@@ -1,0 +1,17 @@
+.slick-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-decoration: none;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #262626;
+}
+.logo-image {
+  width: 70px;
+  height: 70px;
+  border-radius: 35px;
+}

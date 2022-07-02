@@ -1,0 +1,114 @@
+.bgContainer {
+  margin: auto;
+}
+.userContainer {
+  background: #ffffff;
+  border: 1px solid #dbdbdb;
+  border-radius: 4px 4px 0px 0px;
+  width: 1040px;
+  height: 60px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 10px;
+}
+.profilePic {
+  height: 32px;
+  width: 32px;
+  border-radius: 32px;
+  margin-left: 25px;
+}
+.usersName {
+  height: 18px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  color: #262626;
+  margin-left: 25px;
+}
+.postDetails {
+  width: 1040px;
+  height: 750px;
+}
+.commentsContainer {
+  box-sizing: border-box;
+  width: 1040px;
+  left: 0px;
+  top: 672px;
+  background: #ffffff;
+  border: 1px solid #dbdbdb;
+  border-radius: 0px 0px 4px 4px;
+  padding: 15px;
+}
+.postCaption {
+  height: 18px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #262626;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.icon {
+  height: 24px;
+  width: 24px;
+  margin-right: 15px;
+}
+.like {
+  height: 18px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  color: #262626;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.Comment {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.commentName {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+  color: #262626;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.userComment {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 18px;
+  color: #262626;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 5px;
+}
+.createdAt {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #989898;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}

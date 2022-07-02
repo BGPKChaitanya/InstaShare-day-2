@@ -1,0 +1,114 @@
+.userName {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 32px;
+  line-height: 32px;
+  color: #262626;
+  margin-left: 0;
+}
+.postFailureContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 60vh;
+}
+.noPosts {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 32px;
+  line-height: 48px;
+  color: #262626;
+}
+.postImage {
+  height: 86px;
+  width: 86px;
+  border-radius: 100%;
+  border-style: solid;
+  border-width: 200;
+  padding: 15px;
+}
+.profileDetails {
+  padding-left: 25px;
+}
+.profileContainer {
+  width: 80%;
+  margin: auto;
+  margin-top: 20px;
+}
+.profileInfo {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.profile_image {
+  width: 180px;
+  height: 180px;
+}
+.followerDetails {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.followerItem {
+  height: 24px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #262626;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.userId {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #262626;
+}
+.storyImage {
+  width: 86px;
+  height: 86px;
+  border-radius: 100%;
+  margin: 10px;
+}
+.storyContainer {
+  display: flex;
+  flex-direction: row;
+  margin-top: 25px;
+}
+.postContainer1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.postWord {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 32px;
+  display: flex;
+  align-items: center;
+  color: #262626;
+  height: 32px;
+  margin-left: 10px;
+}
+.PostImage {
+  width: 330px;
+  height: 330px;
+}
+.postsContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-bottom: 50px;
+}
